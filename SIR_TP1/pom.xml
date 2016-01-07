@@ -49,9 +49,13 @@
         <version>2.5</version>
       </plugin>
 
+  </plugins>
+  </reporting>
+
   <scm>
-    <connection>scm:git:git://"https://github.com/cheisda/SIR_TP.git"/repository1/monappli-web</connection>
-    <url>https://github.com/cheisda/SIR_TP.git</url>
+    <connection>scm:git:git://github.com/cheisda/SIR_TP.git/</connection>
+    <url>http://github.com/cheisda/SIR_TP.git</url>
   </scm>
+
 </project>
 

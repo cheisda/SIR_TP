@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d746a12e-4475-40d0-a189-f525bb5701a8" name="Default" comment="" />
+    <list default="true" id="d746a12e-4475-40d0-a189-f525bb5701a8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tpmaven-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/tpmaven-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/App.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/App.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/class-use/App.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/class-use/App.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/AppTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/AppTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/class-use/AppTest.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/class-use/AppTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-fr.istic.master1.miage.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-fr.istic.master1.miage.AppTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/checkstyle.html" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cpd.html" afterPath="$PROJECT_DIR$/target/site/cpd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="$PROJECT_DIR$/target/site/dependencies.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="$PROJECT_DIR$/target/site/dependency-convergence.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/fr.istic.master1.miage.App.html" afterPath="$PROJECT_DIR$/target/site/cobertura/fr.istic.master1.miage.App.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/fr.istic.master1.miage.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/fr.istic.master1.miage.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-fr.istic.master1.miage.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary-fr.istic.master1.miage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="$PROJECT_DIR$/target/site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-frame.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-frame.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-summary.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-summary.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-tree.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-tree.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-use.html" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/istic/master1/miage/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-use.html" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/istic/master1/miage/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="$PROJECT_DIR$/target/site/plugins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/pmd.html" afterPath="$PROJECT_DIR$/target/site/pmd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/pmd.xml" afterPath="$PROJECT_DIR$/target/pmd.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/pmd.xml" afterPath="$PROJECT_DIR$/target/site/pmd.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="$PROJECT_DIR$/target/site/project-info.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="$PROJECT_DIR$/target/site/project-reports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="$PROJECT_DIR$/target/site/project-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SIR_TP1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +79,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5301508">
-              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.6155779">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +127,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -151,7 +207,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -459,6 +515,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d746a12e-4475-40d0-a189-f525bb5701a8" name="Default" comment="" />
@@ -469,7 +528,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -539,8 +598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5301508">
-          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.6155779">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
